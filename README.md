@@ -1,1 +1,1 @@
-# LED strip different programs with NeoPixel.h
+# LED strip arduino with NeoPixel.h
